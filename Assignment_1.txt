@@ -1,0 +1,22 @@
+1. Guido Van Rossum
+2. Object Oriented Programming and Structured
+3. Yes
+4. .py
+5. interpreted
+6. module, function and class
+7. #
+8. version()
+9. def()
+10. preferred installer program
+11. print, version, def, list, dict
+12. 79 characters
+13. widely used, easy to understand, strong language, vast libraries
+14. using heap
+15. ---
+	1 - got to my pc properties
+	2 - advanced system settings
+	3 - environment variables
+	4 - system variables 
+	5 - edit
+	
+16. yes
