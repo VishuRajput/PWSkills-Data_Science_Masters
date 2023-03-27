@@ -1,0 +1,9 @@
+2023-03-27 15:46:15,527 Opening a file named assignment.txt in write mode
+2023-03-27 15:46:15,527 Writing data into the file
+2023-03-27 15:46:15,528 File closed
+2023-03-27 15:46:15,530 Opening the file again in read mode
+2023-03-27 15:46:15,530 reading and printing the data from file
+2023-03-27 16:22:48,108 Opening a file named assignment.txt in write mode
+2023-03-27 16:22:48,110 Writing data into the file
+2023-03-27 16:22:48,119 Opening the file again in read mode
+2023-03-27 16:22:48,119 reading and printing the data from file
