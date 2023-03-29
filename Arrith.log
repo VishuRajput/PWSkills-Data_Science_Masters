@@ -1,0 +1,28 @@
+INFO:root:The exponential value is
+ERROR:root:math range error
+INFO:root:The exponential value is
+ERROR:root:math range error
+DEBUG:parso.cache:pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\builtins.pyi
+DEBUG:parso.cache:pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 10; new: 10
+DEBUG:parso.python.diff:-> code[equal] old[1:9] new[1:9]
+DEBUG:parso.python.diff:parse_part from 1 to 10 (to 9 in part parser)
+DEBUG:parso.python.diff:-> code[replace] old[10:10] new[10:10]
+DEBUG:parso.python.diff:diff parser end
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 10; new: 10
+DEBUG:parso.python.diff:-> code[equal] old[1:9] new[1:9]
+DEBUG:parso.python.diff:parse_part from 1 to 10 (to 9 in part parser)
+DEBUG:parso.python.diff:-> code[replace] old[10:10] new[10:10]
+DEBUG:parso.python.diff:diff parser end
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 10; new: 7
+DEBUG:parso.python.diff:-> code[equal] old[1:5] new[1:5]
+DEBUG:parso.python.diff:parse_part from 1 to 6 (to 6 in part parser)
+DEBUG:parso.python.diff:-> code[replace] old[6:10] new[6:7]
+DEBUG:parso.python.diff:parse_part from 7 to 7 (to 6 in part parser)
+DEBUG:parso.python.diff:diff parser end
+DEBUG:parso.cache:pickle loaded: C:\ProgramData\Anaconda3\lib\logging\__init__.py
+DEBUG:parso.cache:pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\logging\__init__.pyi
+ERROR:root:Trying to access a wrong key 'key3'

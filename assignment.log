@@ -7,3 +7,15 @@
 2023-03-27 16:22:48,110 Writing data into the file
 2023-03-27 16:22:48,119 Opening the file again in read mode
 2023-03-27 16:22:48,119 reading and printing the data from file
+2023-03-29 15:24:23,943 Opening a file named assignment.txt in write mode
+2023-03-29 15:24:23,944 Writing data into the file
+2023-03-29 15:24:23,966 Opening the file again in read mode
+2023-03-29 15:24:23,968 reading and printing the data from file
+2023-03-29 15:24:31,185 Opening a file named assignment.txt in write mode
+2023-03-29 15:24:31,186 Writing data into the file
+2023-03-29 15:24:31,187 Opening the file again in read mode
+2023-03-29 15:24:31,188 reading and printing the data from file
+2023-03-29 15:25:12,736 Opening a file named assignment.txt in write mode
+2023-03-29 15:25:12,736 Writing data into the file
+2023-03-29 15:25:12,738 Opening the file again in read mode
+2023-03-29 15:25:12,738 reading and printing the data from file

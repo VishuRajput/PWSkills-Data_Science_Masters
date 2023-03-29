@@ -1,0 +1,23 @@
+ERROR:root:Trying to access a wrong key 'key3'
+DEBUG:parso.cache:pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\builtins.pyi
+DEBUG:parso.cache:pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 19; new: 19
+DEBUG:parso.python.diff:-> code[equal] old[1:18] new[1:18]
+DEBUG:parso.python.diff:copy old[6:7] new[1:7]
+DEBUG:parso.python.diff:parse_part from 8 to 19 (to 18 in part parser)
+DEBUG:parso.python.diff:-> code[replace] old[19:19] new[19:19]
+DEBUG:parso.python.diff:diff parser end
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 19; new: 19
+DEBUG:parso.python.diff:-> code[equal] old[1:18] new[1:18]
+DEBUG:parso.python.diff:copy old[6:7] new[1:7]
+DEBUG:parso.python.diff:parse_part from 8 to 19 (to 18 in part parser)
+DEBUG:parso.python.diff:-> code[replace] old[19:19] new[19:19]
+DEBUG:parso.python.diff:diff parser end
+ERROR:root:Trying to access a wrong key 'key3'
+ERROR:root:Trying for invalid index list index out of range
+ERROR:root:Trying to access a wrong key 'key3'
+ERROR:root:Trying to access a wrong key 'key3'
+ERROR:root:Trying to access a wrong key 'key3'
+ERROR:root:Trying for invalid index list index out of range
