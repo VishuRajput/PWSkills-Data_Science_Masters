@@ -1,0 +1,409 @@
+2023-04-03 19:32:46,660 importing pymongo package
+2023-04-03 19:32:51,600 establishing connection
+2023-04-03 19:32:51,601 creating database
+2023-04-03 19:32:51,602 creating data/document for database
+2023-04-03 19:32:51,604 creating collection
+2023-04-03 19:32:51,922 Peer did not staple an OCSP response
+2023-04-03 19:32:51,922 Requesting OCSP data
+2023-04-03 19:32:51,922 Trying http://r3.o.lencr.org
+2023-04-03 19:32:51,979 Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-04-03 19:32:52,059 Peer did not staple an OCSP response
+2023-04-03 19:32:52,059 Requesting OCSP data
+2023-04-03 19:32:52,059 Trying http://r3.o.lencr.org
+2023-04-03 19:32:52,061 Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-04-03 19:32:52,192 Peer did not staple an OCSP response
+2023-04-03 19:32:52,243 Requesting OCSP data
+2023-04-03 19:32:52,243 Trying http://r3.o.lencr.org
+2023-04-03 19:32:52,244 Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-04-03 19:32:52,326 http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-04-03 19:32:52,326 http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-04-03 19:32:52,326 OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-04-03 19:32:52,326 Verifying response
+2023-04-03 19:32:52,326 OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-04-03 19:32:52,326 Verifying response
+2023-04-03 19:32:52,326 Responder is issuer
+2023-04-03 19:32:52,326 Responder is issuer
+2023-04-03 19:32:52,326 Caching OCSP response.
+2023-04-03 19:32:52,326 OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:32:52,326 Caching OCSP response.
+2023-04-03 19:32:52,326 OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:32:52,359 http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-04-03 19:32:52,359 OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-04-03 19:32:52,359 Verifying response
+2023-04-03 19:32:52,359 Responder is issuer
+2023-04-03 19:32:52,359 Caching OCSP response.
+2023-04-03 19:32:52,359 OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:32:52,656 Peer did not staple an OCSP response
+2023-04-03 19:32:52,656 Requesting OCSP data
+2023-04-03 19:32:52,656 Trying http://r3.o.lencr.org
+2023-04-03 19:32:52,656 Using cached OCSP response.
+2023-04-03 19:32:52,656 OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:32:52,656 Peer did not staple an OCSP response
+2023-04-03 19:32:52,656 Requesting OCSP data
+2023-04-03 19:32:52,656 Trying http://r3.o.lencr.org
+2023-04-03 19:32:52,656 Using cached OCSP response.
+2023-04-03 19:32:52,656 OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:32:52,837 Peer did not staple an OCSP response
+2023-04-03 19:32:52,837 Peer did not staple an OCSP response
+2023-04-03 19:32:52,900 Requesting OCSP data
+2023-04-03 19:32:52,901 Requesting OCSP data
+2023-04-03 19:32:52,901 Trying http://r3.o.lencr.org
+2023-04-03 19:32:52,901 Trying http://r3.o.lencr.org
+2023-04-03 19:32:52,903 Using cached OCSP response.
+2023-04-03 19:32:52,903 OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:32:52,904 Using cached OCSP response.
+2023-04-03 19:32:52,904 OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:32:53,156 inserting data into collection
+2023-04-03 19:34:21,427 diff parser start
+2023-04-03 19:34:21,437 line_lengths old: 4; new: 11
+2023-04-03 19:34:21,437 -> code[equal] old[1:3] new[1:3]
+2023-04-03 19:34:21,442 parse_part from 1 to 4 (to 6 in part parser)
+2023-04-03 19:34:21,442 -> code[replace] old[4:4] new[4:11]
+2023-04-03 19:34:21,443 parse_part from 5 to 11 (to 10 in part parser)
+2023-04-03 19:34:21,443 diff parser end
+2023-04-03 19:34:21,993 pickle loaded: C:\ProgramData\Anaconda3\lib\logging\__init__.py
+2023-04-03 19:34:22,617 pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\logging\__init__.pyi
+2023-04-03 19:34:22,727 pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\builtins.pyi
+2023-04-03 19:34:22,853 pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2023-04-03 19:37:17,337 diff parser start
+2023-04-03 19:37:17,365 line_lengths old: 11; new: 11
+2023-04-03 19:37:17,366 -> code[replace] old[1:1] new[1:9]
+2023-04-03 19:37:17,376 parse_part from 1 to 9 (to 10 in part parser)
+2023-04-03 19:37:17,376 -> code[equal] old[2:2] new[10:10]
+2023-04-03 19:37:17,377 parse_part from 10 to 11 (to 10 in part parser)
+2023-04-03 19:37:17,377 -> code[replace] old[3:11] new[11:11]
+2023-04-03 19:37:17,378 diff parser end
+2023-04-03 19:37:19,775 diff parser start
+2023-04-03 19:37:19,775 line_lengths old: 11; new: 11
+2023-04-03 19:37:19,775 -> code[equal] old[1:10] new[1:10]
+2023-04-03 19:37:19,775 copy old[1:9] new[1:9]
+2023-04-03 19:37:19,786 parse_part from 10 to 11 (to 10 in part parser)
+2023-04-03 19:37:19,788 -> code[replace] old[11:11] new[11:11]
+2023-04-03 19:37:19,790 diff parser end
+2023-04-03 19:37:21,774 diff parser start
+2023-04-03 19:37:21,774 line_lengths old: 11; new: 11
+2023-04-03 19:37:21,774 -> code[equal] old[1:10] new[1:10]
+2023-04-03 19:37:21,774 copy old[1:9] new[1:9]
+2023-04-03 19:37:21,781 parse_part from 10 to 11 (to 10 in part parser)
+2023-04-03 19:37:21,782 -> code[replace] old[11:11] new[11:11]
+2023-04-03 19:37:21,782 diff parser end
+2023-04-03 19:37:22,696 diff parser start
+2023-04-03 19:37:22,696 line_lengths old: 11; new: 11
+2023-04-03 19:37:22,696 -> code[equal] old[1:10] new[1:10]
+2023-04-03 19:37:22,696 copy old[1:9] new[1:9]
+2023-04-03 19:37:22,696 parse_part from 10 to 11 (to 10 in part parser)
+2023-04-03 19:37:22,696 -> code[replace] old[11:11] new[11:11]
+2023-04-03 19:37:22,696 diff parser end
+2023-04-03 19:37:31,056 diff parser start
+2023-04-03 19:37:31,056 line_lengths old: 11; new: 12
+2023-04-03 19:37:31,056 -> code[equal] old[1:10] new[1:10]
+2023-04-03 19:37:31,056 copy old[1:9] new[1:9]
+2023-04-03 19:37:31,065 parse_part from 10 to 11 (to 11 in part parser)
+2023-04-03 19:37:31,065 -> code[replace] old[11:11] new[11:12]
+2023-04-03 19:37:31,066 parse_part from 12 to 12 (to 11 in part parser)
+2023-04-03 19:37:31,067 diff parser end
+2023-04-03 19:37:36,722 diff parser start
+2023-04-03 19:37:36,722 line_lengths old: 12; new: 12
+2023-04-03 19:37:36,722 -> code[equal] old[1:11] new[1:11]
+2023-04-03 19:37:36,722 copy old[1:11] new[1:11]
+2023-04-03 19:37:36,725 -> code[replace] old[12:12] new[12:12]
+2023-04-03 19:37:36,726 parse_part from 12 to 12 (to 11 in part parser)
+2023-04-03 19:37:36,726 diff parser end
+2023-04-03 19:37:38,496 diff parser start
+2023-04-03 19:37:38,497 line_lengths old: 12; new: 12
+2023-04-03 19:37:38,497 -> code[equal] old[1:11] new[1:11]
+2023-04-03 19:37:38,498 copy old[1:11] new[1:11]
+2023-04-03 19:37:38,498 -> code[replace] old[12:12] new[12:12]
+2023-04-03 19:37:38,499 parse_part from 12 to 12 (to 11 in part parser)
+2023-04-03 19:37:38,500 diff parser end
+2023-04-03 19:37:38,714 pickle loaded: C:\ProgramData\Anaconda3\lib\typing.py
+2023-04-03 19:37:38,760 pickle loaded: C:\ProgramData\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\typing.pyi
+2023-04-03 19:37:39,308 diff parser start
+2023-04-03 19:37:39,309 line_lengths old: 12; new: 12
+2023-04-03 19:37:39,310 -> code[equal] old[1:11] new[1:11]
+2023-04-03 19:37:39,310 copy old[1:11] new[1:11]
+2023-04-03 19:37:39,311 -> code[replace] old[12:12] new[12:12]
+2023-04-03 19:37:39,311 parse_part from 12 to 12 (to 11 in part parser)
+2023-04-03 19:37:39,311 diff parser end
+2023-04-03 19:40:29,731 diff parser start
+2023-04-03 19:40:29,731 line_lengths old: 12; new: 1
+2023-04-03 19:40:29,731 -> code[replace] old[1:12] new[1:1]
+2023-04-03 19:40:29,747 parse_part from 1 to 1 (to 0 in part parser)
+2023-04-03 19:40:29,749 diff parser end
+2023-04-03 19:41:07,091 inserting data1
+2023-04-03 19:41:30,484 importing pymongo package
+2023-04-03 19:41:35,743 establishing connection
+2023-04-03 19:41:35,743 creating database
+2023-04-03 19:41:35,743 creating data/document for database
+2023-04-03 19:41:35,743 creating collection
+2023-04-03 19:41:36,399 Peer did not staple an OCSP response
+2023-04-03 19:41:36,399 Requesting OCSP data
+2023-04-03 19:41:36,399 Trying http://r3.o.lencr.org
+2023-04-03 19:41:36,399 Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-04-03 19:41:36,479 Peer did not staple an OCSP response
+2023-04-03 19:41:36,480 Requesting OCSP data
+2023-04-03 19:41:36,480 Trying http://r3.o.lencr.org
+2023-04-03 19:41:36,484 Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-04-03 19:41:36,852 http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-04-03 19:41:36,852 OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-04-03 19:41:36,852 Verifying response
+2023-04-03 19:41:36,852 Responder is issuer
+2023-04-03 19:41:36,852 Caching OCSP response.
+2023-04-03 19:41:36,852 OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:41:36,852 http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-04-03 19:41:36,852 OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-04-03 19:41:36,852 Verifying response
+2023-04-03 19:41:36,852 Responder is issuer
+2023-04-03 19:41:36,852 Caching OCSP response.
+2023-04-03 19:41:36,852 OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:41:36,883 Peer did not staple an OCSP response
+2023-04-03 19:41:36,883 Requesting OCSP data
+2023-04-03 19:41:36,883 Trying http://r3.o.lencr.org
+2023-04-03 19:41:36,883 Using cached OCSP response.
+2023-04-03 19:41:36,883 OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:41:37,029 Peer did not staple an OCSP response
+2023-04-03 19:41:37,029 Requesting OCSP data
+2023-04-03 19:41:37,029 Trying http://r3.o.lencr.org
+2023-04-03 19:41:37,030 Using cached OCSP response.
+2023-04-03 19:41:37,030 OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:41:37,036 Peer did not staple an OCSP response
+2023-04-03 19:41:37,037 Requesting OCSP data
+2023-04-03 19:41:37,037 Trying http://r3.o.lencr.org
+2023-04-03 19:41:37,038 Using cached OCSP response.
+2023-04-03 19:41:37,039 OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:41:37,056 Peer did not staple an OCSP response
+2023-04-03 19:41:37,056 Requesting OCSP data
+2023-04-03 19:41:37,056 Trying http://r3.o.lencr.org
+2023-04-03 19:41:37,056 Peer did not staple an OCSP response
+2023-04-03 19:41:37,056 Using cached OCSP response.
+2023-04-03 19:41:37,056 Requesting OCSP data
+2023-04-03 19:41:37,056 Trying http://r3.o.lencr.org
+2023-04-03 19:41:37,056 OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:41:37,056 Using cached OCSP response.
+2023-04-03 19:41:37,056 OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:41:37,251 inserting data into collection
+2023-04-03 19:41:46,265 inserting data1
+2023-04-03 19:42:45,066 importing pymongo package
+2023-04-03 19:42:49,275 establishing connection
+2023-04-03 19:42:49,275 creating database
+2023-04-03 19:42:49,275 creating data/document for database
+2023-04-03 19:42:49,275 creating collection
+2023-04-03 19:42:50,200 Peer did not staple an OCSP response
+2023-04-03 19:42:50,200 Requesting OCSP data
+2023-04-03 19:42:50,201 Trying http://r3.o.lencr.org
+2023-04-03 19:42:50,202 Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-04-03 19:42:50,221 Peer did not staple an OCSP response
+2023-04-03 19:42:50,222 Requesting OCSP data
+2023-04-03 19:42:50,222 Trying http://r3.o.lencr.org
+2023-04-03 19:42:50,226 Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-04-03 19:42:50,244 Peer did not staple an OCSP response
+2023-04-03 19:42:50,244 Requesting OCSP data
+2023-04-03 19:42:50,244 Trying http://r3.o.lencr.org
+2023-04-03 19:42:50,244 Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-04-03 19:42:50,275 http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-04-03 19:42:50,275 OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-04-03 19:42:50,275 Verifying response
+2023-04-03 19:42:50,275 Responder is issuer
+2023-04-03 19:42:50,275 Caching OCSP response.
+2023-04-03 19:42:50,275 OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:42:50,291 http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-04-03 19:42:50,291 OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-04-03 19:42:50,291 Verifying response
+2023-04-03 19:42:50,291 Responder is issuer
+2023-04-03 19:42:50,291 http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-04-03 19:42:50,291 Caching OCSP response.
+2023-04-03 19:42:50,291 OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:42:50,291 OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-04-03 19:42:50,291 Verifying response
+2023-04-03 19:42:50,291 Responder is issuer
+2023-04-03 19:42:50,291 Caching OCSP response.
+2023-04-03 19:42:50,291 OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:42:50,462 Peer did not staple an OCSP response
+2023-04-03 19:42:50,462 Requesting OCSP data
+2023-04-03 19:42:50,462 Trying http://r3.o.lencr.org
+2023-04-03 19:42:50,462 Using cached OCSP response.
+2023-04-03 19:42:50,462 OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:42:50,478 Peer did not staple an OCSP response
+2023-04-03 19:42:50,478 Requesting OCSP data
+2023-04-03 19:42:50,478 Trying http://r3.o.lencr.org
+2023-04-03 19:42:50,478 Peer did not staple an OCSP response
+2023-04-03 19:42:50,478 Requesting OCSP data
+2023-04-03 19:42:50,478 Trying http://r3.o.lencr.org
+2023-04-03 19:42:50,478 Using cached OCSP response.
+2023-04-03 19:42:50,478 OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:42:50,478 Using cached OCSP response.
+2023-04-03 19:42:50,478 OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:42:50,478 Peer did not staple an OCSP response
+2023-04-03 19:42:50,478 Requesting OCSP data
+2023-04-03 19:42:50,478 Trying http://r3.o.lencr.org
+2023-04-03 19:42:50,478 Using cached OCSP response.
+2023-04-03 19:42:50,478 OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:42:50,689 inserting data into collection
+2023-04-03 19:42:50,725 inserting data1
+2023-04-03 19:44:48,242 INFO importing pymongo package
+2023-04-03 19:44:53,523 INFO establishing connection
+2023-04-03 19:44:53,524 INFO creating database
+2023-04-03 19:44:53,524 INFO creating data/document for database
+2023-04-03 19:44:53,525 INFO creating collection
+2023-04-03 19:44:54,020 DEBUG Peer did not staple an OCSP response
+2023-04-03 19:44:54,021 DEBUG Requesting OCSP data
+2023-04-03 19:44:54,022 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 19:44:54,031 DEBUG Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-04-03 19:44:54,089 DEBUG Peer did not staple an OCSP response
+2023-04-03 19:44:54,089 DEBUG Requesting OCSP data
+2023-04-03 19:44:54,089 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 19:44:54,089 DEBUG Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-04-03 19:44:54,120 DEBUG http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-04-03 19:44:54,120 DEBUG OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-04-03 19:44:54,120 DEBUG Verifying response
+2023-04-03 19:44:54,120 DEBUG Responder is issuer
+2023-04-03 19:44:54,136 DEBUG Caching OCSP response.
+2023-04-03 19:44:54,136 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:44:54,136 DEBUG Peer did not staple an OCSP response
+2023-04-03 19:44:54,136 DEBUG http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-04-03 19:44:54,136 DEBUG Requesting OCSP data
+2023-04-03 19:44:54,136 DEBUG OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-04-03 19:44:54,136 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 19:44:54,136 DEBUG Verifying response
+2023-04-03 19:44:54,136 DEBUG Using cached OCSP response.
+2023-04-03 19:44:54,136 DEBUG Responder is issuer
+2023-04-03 19:44:54,136 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:44:54,136 DEBUG Caching OCSP response.
+2023-04-03 19:44:54,136 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:44:54,291 DEBUG Peer did not staple an OCSP response
+2023-04-03 19:44:54,291 DEBUG Requesting OCSP data
+2023-04-03 19:44:54,291 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 19:44:54,291 DEBUG Using cached OCSP response.
+2023-04-03 19:44:54,291 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:44:54,309 DEBUG Peer did not staple an OCSP response
+2023-04-03 19:44:54,309 DEBUG Requesting OCSP data
+2023-04-03 19:44:54,309 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 19:44:54,309 DEBUG Using cached OCSP response.
+2023-04-03 19:44:54,309 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:44:54,309 DEBUG Peer did not staple an OCSP response
+2023-04-03 19:44:54,309 DEBUG Requesting OCSP data
+2023-04-03 19:44:54,309 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 19:44:54,309 DEBUG Using cached OCSP response.
+2023-04-03 19:44:54,309 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:44:54,324 DEBUG Peer did not staple an OCSP response
+2023-04-03 19:44:54,324 DEBUG Requesting OCSP data
+2023-04-03 19:44:54,324 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 19:44:54,324 DEBUG Using cached OCSP response.
+2023-04-03 19:44:54,324 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:44:54,543 INFO inserting data into collection
+2023-04-03 19:44:54,558 INFO importing pymongo package
+2023-04-03 19:44:59,041 INFO establishing connection
+2023-04-03 19:44:59,041 INFO creating database
+2023-04-03 19:44:59,041 INFO creating data/document for database
+2023-04-03 19:44:59,041 INFO creating collection
+2023-04-03 19:44:59,175 DEBUG Peer did not staple an OCSP response
+2023-04-03 19:44:59,175 DEBUG Requesting OCSP data
+2023-04-03 19:44:59,175 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 19:44:59,190 DEBUG Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-04-03 19:44:59,191 DEBUG Peer did not staple an OCSP response
+2023-04-03 19:44:59,191 DEBUG Requesting OCSP data
+2023-04-03 19:44:59,191 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 19:44:59,191 DEBUG Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-04-03 19:44:59,191 DEBUG Peer did not staple an OCSP response
+2023-04-03 19:44:59,191 DEBUG Requesting OCSP data
+2023-04-03 19:44:59,191 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 19:44:59,191 DEBUG Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-04-03 19:44:59,225 DEBUG http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-04-03 19:44:59,225 DEBUG OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-04-03 19:44:59,225 DEBUG Verifying response
+2023-04-03 19:44:59,225 DEBUG Responder is issuer
+2023-04-03 19:44:59,225 DEBUG Caching OCSP response.
+2023-04-03 19:44:59,225 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:44:59,225 DEBUG http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-04-03 19:44:59,225 DEBUG OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-04-03 19:44:59,225 DEBUG Verifying response
+2023-04-03 19:44:59,225 DEBUG Responder is issuer
+2023-04-03 19:44:59,225 DEBUG Caching OCSP response.
+2023-04-03 19:44:59,238 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:44:59,241 DEBUG http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-04-03 19:44:59,242 DEBUG OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-04-03 19:44:59,242 DEBUG Verifying response
+2023-04-03 19:44:59,242 DEBUG Responder is issuer
+2023-04-03 19:44:59,242 DEBUG Caching OCSP response.
+2023-04-03 19:44:59,242 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:44:59,392 DEBUG Peer did not staple an OCSP response
+2023-04-03 19:44:59,392 DEBUG Requesting OCSP data
+2023-04-03 19:44:59,392 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 19:44:59,392 DEBUG Using cached OCSP response.
+2023-04-03 19:44:59,392 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:44:59,392 DEBUG Peer did not staple an OCSP response
+2023-04-03 19:44:59,392 DEBUG Requesting OCSP data
+2023-04-03 19:44:59,392 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 19:44:59,392 DEBUG Using cached OCSP response.
+2023-04-03 19:44:59,392 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:44:59,409 DEBUG Peer did not staple an OCSP response
+2023-04-03 19:44:59,409 DEBUG Requesting OCSP data
+2023-04-03 19:44:59,409 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 19:44:59,409 DEBUG Using cached OCSP response.
+2023-04-03 19:44:59,409 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:44:59,421 DEBUG Peer did not staple an OCSP response
+2023-04-03 19:44:59,421 DEBUG Requesting OCSP data
+2023-04-03 19:44:59,422 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 19:44:59,422 DEBUG Using cached OCSP response.
+2023-04-03 19:44:59,423 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:44:59,593 INFO inserting data into collection
+2023-04-03 19:45:06,646 INFO importing pymongo package
+2023-04-03 19:45:11,289 INFO establishing connection
+2023-04-03 19:45:11,289 INFO creating database
+2023-04-03 19:45:11,289 INFO creating data/document for database
+2023-04-03 19:45:11,289 INFO creating collection
+2023-04-03 19:45:11,425 DEBUG Peer did not staple an OCSP response
+2023-04-03 19:45:11,425 DEBUG Requesting OCSP data
+2023-04-03 19:45:11,425 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 19:45:11,429 DEBUG Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-04-03 19:45:11,434 DEBUG Peer did not staple an OCSP response
+2023-04-03 19:45:11,434 DEBUG Requesting OCSP data
+2023-04-03 19:45:11,435 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 19:45:11,439 DEBUG Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-04-03 19:45:11,440 DEBUG Peer did not staple an OCSP response
+2023-04-03 19:45:11,441 DEBUG Requesting OCSP data
+2023-04-03 19:45:11,441 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 19:45:11,443 DEBUG Starting new HTTP connection (1): r3.o.lencr.org:80
+2023-04-03 19:45:11,524 DEBUG http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-04-03 19:45:11,524 DEBUG OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-04-03 19:45:11,524 DEBUG Verifying response
+2023-04-03 19:45:11,524 DEBUG Responder is issuer
+2023-04-03 19:45:11,524 DEBUG Caching OCSP response.
+2023-04-03 19:45:11,524 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:45:11,540 DEBUG http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-04-03 19:45:11,540 DEBUG http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+2023-04-03 19:45:11,556 DEBUG OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-04-03 19:45:11,556 DEBUG Verifying response
+2023-04-03 19:45:11,556 DEBUG Responder is issuer
+2023-04-03 19:45:11,556 DEBUG OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+2023-04-03 19:45:11,556 DEBUG Verifying response
+2023-04-03 19:45:11,556 DEBUG Responder is issuer
+2023-04-03 19:45:11,556 DEBUG Caching OCSP response.
+2023-04-03 19:45:11,556 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:45:11,556 DEBUG Caching OCSP response.
+2023-04-03 19:45:11,556 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:45:11,713 DEBUG Peer did not staple an OCSP response
+2023-04-03 19:45:11,713 DEBUG Requesting OCSP data
+2023-04-03 19:45:11,713 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 19:45:11,713 DEBUG Peer did not staple an OCSP response
+2023-04-03 19:45:11,713 DEBUG Requesting OCSP data
+2023-04-03 19:45:11,713 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 19:45:11,713 DEBUG Using cached OCSP response.
+2023-04-03 19:45:11,713 DEBUG Using cached OCSP response.
+2023-04-03 19:45:11,713 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:45:11,713 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:45:11,729 DEBUG Peer did not staple an OCSP response
+2023-04-03 19:45:11,729 DEBUG Requesting OCSP data
+2023-04-03 19:45:11,729 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 19:45:11,729 DEBUG Using cached OCSP response.
+2023-04-03 19:45:11,729 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:45:11,744 DEBUG Peer did not staple an OCSP response
+2023-04-03 19:45:11,744 DEBUG Requesting OCSP data
+2023-04-03 19:45:11,744 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 19:45:11,744 DEBUG Using cached OCSP response.
+2023-04-03 19:45:11,744 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 19:45:11,934 INFO inserting data into collection
+2023-04-03 19:45:17,896 INFO inserting data1
+2023-04-03 19:45:22,442 INFO iterating in find_one to see single record
+2023-04-03 19:45:37,230 INFO iterating in find_one to see single record
+2023-04-03 19:45:39,224 INFO iterating in find_one to see all records
