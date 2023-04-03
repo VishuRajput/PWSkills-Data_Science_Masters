@@ -407,3 +407,33 @@
 2023-04-03 19:45:22,442 INFO iterating in find_one to see single record
 2023-04-03 19:45:37,230 INFO iterating in find_one to see single record
 2023-04-03 19:45:39,224 INFO iterating in find_one to see all records
+2023-04-03 21:56:00,783 DEBUG Peer did not staple an OCSP response
+2023-04-03 21:56:00,767 DEBUG Peer did not staple an OCSP response
+2023-04-03 21:56:00,773 DEBUG Peer did not staple an OCSP response
+2023-04-03 21:56:01,135 DEBUG Requesting OCSP data
+2023-04-03 21:56:01,171 DEBUG Requesting OCSP data
+2023-04-03 21:56:01,217 DEBUG Requesting OCSP data
+2023-04-03 21:56:01,265 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 21:56:01,280 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 21:56:01,283 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 21:56:01,488 DEBUG Using cached OCSP response.
+2023-04-03 21:56:01,488 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 21:56:01,490 DEBUG Using cached OCSP response.
+2023-04-03 21:56:01,491 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 21:56:01,498 DEBUG Using cached OCSP response.
+2023-04-03 21:56:01,553 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 21:56:12,412 DEBUG Peer did not staple an OCSP response
+2023-04-03 21:56:12,412 DEBUG Requesting OCSP data
+2023-04-03 21:56:12,412 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 21:56:12,428 DEBUG Using cached OCSP response.
+2023-04-03 21:56:12,428 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 21:56:20,947 DEBUG Peer did not staple an OCSP response
+2023-04-03 21:56:20,948 DEBUG Requesting OCSP data
+2023-04-03 21:56:20,948 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 21:56:20,949 DEBUG Using cached OCSP response.
+2023-04-03 21:56:20,949 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
+2023-04-03 21:56:20,979 DEBUG Peer did not staple an OCSP response
+2023-04-03 21:56:20,979 DEBUG Requesting OCSP data
+2023-04-03 21:56:20,979 DEBUG Trying http://r3.o.lencr.org
+2023-04-03 21:56:20,979 DEBUG Using cached OCSP response.
+2023-04-03 21:56:20,979 DEBUG OCSP cert status: <OCSPCertStatus.GOOD: 0>
